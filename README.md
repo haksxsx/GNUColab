@@ -2,7 +2,7 @@
 
 *In here we set an environment in which you can persistently run desktop programs.*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallero/GNUColab/blob/master/gnucolab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haksxsx/GNUColab/blob/master/gnucolab.ipynb)
 
 This notebook lets you **run desktop programs on colab machines** drawn on your local terminal through VNC.
 
@@ -17,8 +17,3 @@ At this moment, the notebook is pre-configured to run either **MATE** or **XFCE*
 # Donate
 
 This notebook is provided under the **AGPL** license v3 or later.
-
-You can donate money to the project through 
-- [Paypal](https://paypal.me/pellegrinoprevete), 
-- DOGE (at this [address](DAVpBtEWkAdZKk5DNbfUn9weKagyfwga9Q))
-- Ethereum mining (just execute the *donate* cell in the notebook).
